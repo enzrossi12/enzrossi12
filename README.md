@@ -13,7 +13,7 @@ My main technologies include:
 
 ---
 
-## 🛠️ Technologies
+##  Technologies
 
 <p align="left">
 <img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
@@ -23,8 +23,9 @@ My main technologies include:
 </p>
 
 
+##  Stats
 
-<div style="display:flex; gap:18px; flex-wrap:wrap;">
+<div style="display:flex; gap:30px; flex-wrap:wrap;">
   <img
     src="https://github-readme-stats-enzo-rossis-projects.vercel.app/api?username=enzrossi12&show_icons=true&theme=tokyonight"
     height="165"
