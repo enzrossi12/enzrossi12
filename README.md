@@ -1,15 +1,13 @@
 ##  About Me :)
 
-I’m a software developer who enjoys building modern and reliable applications, mainly working with C# / .NET on the backend and Angular on the frontend.
+Backend-focused developer passionate about clean architecture and well-structured solutions.
 
-I have experience creating RESTful APIs, working with databases, and building clean, responsive user interfaces. I’m always looking to improve my skills, learn new technologies, and grow as a developer while delivering simple, well-structured, and scalable solutions.
+I work mainly with C# and .NET on the backend designing RESTful APIs, working with relational databases, handling authentication, and writing code that's built to scale and easy to maintain in production. I care deeply about separation of concerns, clean architecture, and making sure things hold up beyond the development environment.
 
-My main technologies include:
+On the frontend, I work with Angular and TypeScript to build responsive and well-organized interfaces that connect seamlessly with the APIs I build.
+I also use Python for scripting, automation and data-related tasks when needed.
 
-- C# and .NET  
-- Angular  
-- TypeScript  
-- Python  
+Always deepening my knowledge, exploring new technologies, and delivering solutions that are simple to understand, solid under the hood, and easy to evolve over time.
 
 ---
 
