@@ -1,37 +1,35 @@
-##  About Me :)
+## hey, I'm Enzo 👋
 
-Backend-focused developer passionate about clean architecture and well-structured solutions.
+backend dev with a thing for clean architecture and solutions that actually make sense.
 
-I work mainly with C# and .NET on the backend designing RESTful APIs, working with relational databases, handling authentication, and writing code that's built to scale and easy to maintain in production. I care deeply about separation of concerns, clean architecture, and making sure things hold up beyond the development environment.
+mostly living in **C# / .NET** land building RESTful APIs, wiring up relational databases,  
+handling auth and writing code that doesn't fall apart the moment it hits production.  
+i care a lot about separation of concerns and keeping things easy to evolve over time.
 
-On the frontend, I work with Angular and TypeScript to build responsive and well-organized interfaces that connect seamlessly with the APIs I build.
-I also use Python for scripting, automation and data-related tasks when needed.
+on the frontend, **Angular + TypeScript** to build interfaces that connect cleanly  
+with everything i build on the back.
 
-Always deepening my knowledge, exploring new technologies, and delivering solutions that are simple to understand, solid under the hood, and easy to evolve over time.
+and **Python** when i need to script something, automate something, or dig into data.
 
 ---
 
-##  Technologies
+### stack
 
 <p align="left">
-<img align="center" alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
-<img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  <img alt="CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+  <img alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" />
+  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
 </p>
 
+---
 
-##  Stats
+### what i'm usually working with
+```
+always exploring · always shipping · always refactoring that one thing that bugged me
+```
 
-<div style="display:flex; gap:30px; flex-wrap:wrap;">
-  <img
-    src="https://github-readme-stats-enzo-rossis-projects.vercel.app/api?username=enzrossi12&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats-enzo-rossis-projects.vercel.app/api/top-langs/?username=enzrossi12&layout=compact&theme=tokyonight"
-    height="165"
-  />
-</div>
-
-
+<img
+  src="https://github-readme-stats-enzo-rossis-projects.vercel.app/api/top-langs/?username=enzrossi12&layout=compact&theme=radical&hide_border=true&bg_color=0d0d0d&title_color=ff6edb&text_color=c9d1d9"
+  height="150"
+/>
